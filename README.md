@@ -1,4 +1,4 @@
-# readthedocs
+# [ARCHIVED] readthedocs
 
 Legacy documentation site for addwiki stuff.
 
